@@ -28,41 +28,33 @@ On this page you will find my tech stack and GitHub activities!
 
 ## 📝 About me
 
-<p>
-  <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=matsumo0922&show_icons=true&locale=en&theme=dark#gh-dark-mode-only" />
-  <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=matsumo0922&show_icons=true&locale=en&theme=default#gh-light-mode-only" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=matsumo0922&show_icons=true&locale=en&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=matsumo0922&show_icons=true&locale=en&theme=default" />
+  <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=matsumo0922&show_icons=true&locale=en&theme=default" />
+</picture>
 
 - 😄 I'm a **Android Developer**
+- 👯 I’m looking to collaborate on **Android Development**
 - 🔭 I’m currently working on **Cookpad**
-- 🌱 I’m currently learning **SeverSide Kotlin, Ruby on Rails**
+- 🌱 I’m currently learning **SeverSide Kotlin**
+- 📫 How to reach me `caios.system@gmail.com`
 - 👨‍💻 All of my projects are available at [matsumo.me](matsumo.me)
+- ⚡ Fun fact: I love **たけのこの里**
 
 ## 🛠️ Languages and Tools
 
 ### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=kotlin,java,c,cpp,ruby,py,md&theme=light#gh-light-mode-only" />
-  <img src="https://skillicons.dev/icons?i=kotlin,java,c,cpp,ruby,py,md&theme=dark#gh-dark-mode-only" />
-</p>
+![Programming Languages](https://skillicons.dev/icons?i=kotlin,java,c,cpp,ruby,py,md)
 
 ### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=kotlin,next,react,html,css&theme=light#gh-light-mode-only" />
-  <img src="https://skillicons.dev/icons?i=kotlin,next,react,html,css&theme=dark#gh-dark-mode-only" />
-</p>
+![Frontend Development](https://skillicons.dev/icons?i=kotlin,next,react,html,css)
 
 ### Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=kotlin,graphql,rails,redis,nodejs&theme=light#gh-light-mode-only" />
-  <img src="https://skillicons.dev/icons?i=kotlin,graphql,rails,redis,nodejs&theme=dark#gh-dark-mode-only" />
-</p>
+![Backend Development](https://skillicons.dev/icons?i=kotlin,graphql,rails,redis,nodejs)
 
 ### Mobile Development
-<p>
-  <img src="https://skillicons.dev/icons?i=kotlin,ktor&theme=light#gh-light-mode-only" />
-  <img src="https://skillicons.dev/icons?i=kotlin,ktor&theme=dark#gh-dark-mode-only" />
-</p>
+![Mobile Languages](https://skillicons.dev/icons?i=kotlin,ktor)
 
 ## 📌 My waka time
 <!--START_SECTION:waka-->
