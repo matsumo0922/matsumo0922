@@ -26,22 +26,15 @@ On this page you will find my tech stack and GitHub activities!
   <img alt="github-snake" src="./resources/github-contribution-grid-snake-light.svg" />
 </picture>
 
-<table>
-<tr>
-<td>
-<h3>📝 About me</h3>
-<p>
-😄 I'm a <strong>Android Developer</strong><br />
-🔭 I’m currently working on <strong>Cookpad</strong><br />
-🌱 I’m currently learning <strong>SeverSide Kotlin, Ruby on Rails</strong><br />
-👨‍💻 All of my projects are available at <a href="matsumo.me">matsumo.me</a> <br />
-</p>
-</td>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matsumo0922&theme=dracula" />
-</td>
-</tr>
-</table>
+## 📝 About me
+
+<p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=matsumo0922&show_icons=true&locale=en" /></p>
+
+- 😄 I'm a **Android Developer**
+- 🔭 I’m currently working on **Cookpad**
+- 🌱 I’m currently learning **SeverSide Kotlin, Ruby on Rails**
+- 👨‍💻 All of my projects are available at [matsumo.me](matsumo.me)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
