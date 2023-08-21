@@ -1,0 +1,29 @@
+name: Snake
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 1 * * *"
+
+jobs:
+  GenerateSnake:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: Platane/snk@master
+        id: snake-gif
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        outputs: |
+          resources/github-contribution-grid-snake.gif?palette=github-light
+          resources/github-contribution-grid-snake.gif?palette=github-dark
+
+      - name: Push Snake
+        uses: EndBug/add-and-commit@v7.2.1
+        with:
+          branch: master
+          message: ":snake: Snake is eating github contributions..."
