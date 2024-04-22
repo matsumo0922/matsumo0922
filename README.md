@@ -12,8 +12,8 @@ On this page you will find my tech stack and GitHub activities!
   <a href="https://twitter.com/matsumo0922">
     <img src="https://badgen.net/badge/twitter/@matsumo0922?icon=twitter" alt="Twitter" />
   </a>
-  <a href="https://qiita.com/CAIOS">
-    <img src="https://badgen.org/img/qiita/CAIOS/contributions?style=flat" alt="Contributions" />
+  <a href="https://qiita.com/matsumo0922">
+    <img src="https://badgen.org/img/qiita/matsumo0922/contributions?style=flat" alt="Contributions" />
   </a>
   <a href="https://open.vscode.dev/matsumo0922/matsumo0922">
     <img alt="Open in VSCode" src="https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc" />
