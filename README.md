@@ -37,7 +37,7 @@ On this page you will find my tech stack and GitHub activities!
 - 😄 I'm a **Android Developer**
 - 👯 I’m looking to collaborate on **Android Development**
 - 🔭 I’m currently working on **Cookpad**
-- 🌱 I’m currently learning **SeverSide Kotlin**
+- 🌱 I’m currently learning **KMP,Compose-Multiplatform**
 - 📫 How to reach me `caios.system@gmail.com`
 - 👨‍💻 All of my projects are available at [matsumo.me](matsumo.me)
 - ⚡ Fun fact: I love **たけのこの里**
