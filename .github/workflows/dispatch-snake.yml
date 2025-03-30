@@ -9,7 +9,21 @@ on:
     - cron: "0 18 * * 1-5"
 
 jobs:
+  check-chance:
+    runs-on: ubuntu-latest
+    outputs:
+      should_run: ${{ steps.setflag.outputs.should_run }}
+    steps:
+      - id: setflag
+        run: |
+          if [ $(( RANDOM % 2 )) -eq 0 ]; then
+            echo "::set-output name=should_run::true"
+          else
+            echo "::set-output name=should_run::false"
+          fi
   GenerateSnake:
+    needs: check-chance
+    if: needs.check-chance.outputs.should_run == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
